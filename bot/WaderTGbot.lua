@@ -249,22 +249,15 @@ function create_config( )
 	"voice",
 	"wai"
     },
-    sudo_users = {242041081,0,tonumber(our_id)},--Sudo users
+    sudo_users = {91112540,0,tonumber(our_id)},--Sudo users
     moderation = {data = 'data/moderation.json'},
-    about_text = [[WaderTG v4
+    about_text = [[RCT
 An advanced administration bot based on TG-CLI written in Lua
 
-Admins
-@mohammadsdi4799
-@iphonei
-@Amin1779
-@Oo_hamed_ice_fuckeram_oO
 
-Our channels
-@WaderTGTeam
+Our channel
+@RCT_channel
 
-thankyou for all admins bot WaderTG
-]],
     help_text_realm = [[
 Realm Commands:
 
@@ -481,7 +474,7 @@ will return group ban list
 channel:@WaderTGTeam
 ]],
 	help_text_super =[[
-WaderTG SuperGroup Commands :
+RCT SuperGroup Commands :
 =========================
 #info
 About the SuperGroup info
